@@ -1,1 +1,1 @@
-export const testStr = "Hello from submodule";
+export const testStr = "Hello from submodule2";
